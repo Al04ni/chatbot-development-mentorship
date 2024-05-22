@@ -2,8 +2,8 @@
 
 ## Overview
 
-**Duration:** 3 months  
-**Objective:** To learn the fundamentals of programming, natural language processing (NLP), and machine learning, and to develop and deploy a functional chatbot.
+🎓 **Duration:** 3 months  
+🚀 **Objective:** To learn the fundamentals of programming, natural language processing (NLP), and machine learning, and to develop and deploy a functional chatbot.
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### Week 1: Fundamentals of Programming
 
-**Objective:** Gain a solid understanding of Python programming.
+👨‍💻 **Objective:** Gain a solid understanding of Python programming.
 
 **Resources:**
 - [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python)
@@ -23,7 +23,7 @@
 
 ### Week 2: Introduction to Chatbots
 
-**Objective:** Understand what chatbots are, their types, and use cases.
+🤖 **Objective:** Understand what chatbots are, their types, and use cases.
 
 **Resources:**
 - [Chatbots: A Beginner's Guide](https://chatbotsmagazine.com/the-complete-beginners-guide-to-chatbots-8280b7b906ca)
@@ -35,7 +35,7 @@
 
 ### Week 3: Natural Language Processing (NLP)
 
-**Objective:** Learn the basics of NLP.
+📝 **Objective:** Learn the basics of NLP.
 
 **Resources:**
 - [Natural Language Processing with Python (NLTK Book)](https://www.nltk.org/book/)
@@ -47,7 +47,7 @@
 
 ### Week 4: Machine Learning Basics
 
-**Objective:** Understand machine learning concepts and techniques.
+🤖 **Objective:** Understand machine learning concepts and techniques.
 
 **Resources:**
 - [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
@@ -63,7 +63,7 @@
 
 ### Week 5: Advanced NLP Techniques
 
-**Objective:** Deepen understanding of NLP with advanced techniques.
+🧠 **Objective:** Deepen understanding of NLP with advanced techniques.
 
 **Resources:**
 - [spaCy](https://spacy.io/)
@@ -75,7 +75,7 @@
 
 ### Week 6: Introduction to Chatbot Development Platforms
 
-**Objective:** Learn to use popular chatbot development platforms.
+🔧 **Objective:** Learn to use popular chatbot development platforms.
 
 **Resources:**
 - [Dialogflow](https://dialogflow.cloud.google.com/)
@@ -88,10 +88,10 @@
 
 ### Week 7: Building a Rule-Based Chatbot
 
-**Objective:** Create a basic rule-based chatbot.
+🛠️ **Objective:** Create a basic rule-based chatbot.
 
 **Resources:**
-- [Build Your First Chatbot with Rasa NLU and Rasa Core](https://medium.com/@maximebeasse/build-your-first-chatbot-with-rasa-nlu-and-rasa-core-using-python-20b4d76a9e0e)
+- [Build Your First Chatbot with Rasa NLU and Rasa Core](https://rasa.com/docs/rasa/user-guide/rasa-tutorial/)
 
 **Tasks:**
 - Design and implement a rule-based chatbot using Rasa or Dialogflow.
@@ -99,7 +99,7 @@
 
 ### Week 8: Building an NLP-Based Chatbot
 
-**Objective:** Develop a more complex chatbot using machine learning.
+🤖 **Objective:** Develop a more complex chatbot using machine learning.
 
 **Resources:**
 - [Creating a Chatbot with Deep Learning](https://medium.com/analytics-vidhya/creating-a-chatbot-from-scratch-using-deep-learning-b95af7a3e4d2)
@@ -114,7 +114,7 @@
 
 ### Week 9: Integration with Messaging Platforms
 
-**Objective:** Integrate your chatbot with popular messaging platforms.
+📬 **Objective:** Integrate your chatbot with popular messaging platforms.
 
 **Resources:**
 - [Integrate Chatbot with Facebook Messenger (Dialogflow)](https://cloud.google.com/dialogflow/docs/integrations/facebook)
@@ -126,11 +126,11 @@
 
 ### Week 10: Deployment and Scaling
 
-**Objective:** Deploy your chatbot to a live environment.
+🚀 **Objective:** Deploy your chatbot to a live environment.
 
 **Resources:**
 - [Deploying a Rasa Chatbot](https://rasa.com/docs/rasa/user-guide/deployment/)
-- [Deploying with Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
+- [Deploying with Heroku](https://www.heroku.com/python)
 
 **Tasks:**
 - Deploy your chatbot using a cloud platform like Heroku.
@@ -138,7 +138,7 @@
 
 ### Week 11: Continuous Improvement
 
-**Objective:** Learn to maintain and improve your chatbot over time.
+🔄 **Objective:** Learn to maintain and improve your chatbot over time.
 
 **Resources:**
 - [Improving Your Chatbot](https://chatbotslife.com/10-ways-to-improve-your-chatbot-6f4d9a3a59fa)
@@ -150,7 +150,7 @@
 
 ### Week 12: Final Project and Review
 
-**Objective:** Consolidate your learning and build a comprehensive chatbot project.
+🏁 **Objective:** Consolidate your learning and build a comprehensive chatbot project.
 
 **Tasks:**
 - Design and build a final chatbot project incorporating all the features you’ve learned.
@@ -162,5 +162,4 @@
 
 **Communities and Forums:**
 - [Reddit - r/Chatbots](https://www.reddit.com/r/chatbots/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/chatbot)
-
+- [Stack Overflow - Chatbot Tag](https://stackoverflow.com/questions/tagged/chatbot)
