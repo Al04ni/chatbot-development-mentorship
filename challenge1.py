@@ -23,3 +23,14 @@ print(chatroom_status(["s234f", "mailbox2"]))  # Output should be "s234f and mai
 print(chatroom_status(["pap_ier44", "townieBOY", "panda321", "motor_bike5", "sandwichmaker833", "violinist91"]))
 # Output should be "pap_ier44, townieBOY and 4 more online"
 
+# 3. pin_validation
+
+def is_valid_PIN(pin):
+    # Write your solution here
+    pass
+
+# Test cases
+print(is_valid_PIN("1234"))  # Output should be True
+print(is_valid_PIN("12345"))  # Output should be False
+print(is_valid_PIN("a234"))  # Output should be False
+print(is_valid_PIN(""))  # Output should be False
