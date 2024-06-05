@@ -30,3 +30,16 @@ Write a function that returns the number of users in a chatroom based on the fol
 - `chatroom_status(["pap_ier44", "townieBOY", "panda321", "motor_bike5", "sandwichmaker833", "violinist91"])`
    ➞ "pap_ier44, townieBOY and 4 more online"
 
+## 3. ATM PIN Code Validation Task
+
+ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits. Your task is to create a function that takes a string and returns True if the PIN is valid and False if it's not.
+
+**Examples:**
+- `is_valid_PIN("1234")` ➞ True
+- `is_valid_PIN("12345")` ➞ False
+- `is_valid_PIN("a234")` ➞ False
+- `is_valid_PIN("")` ➞ False
+
+**Notes:**
+- Some test cases contain special characters.
+- Empty strings must return False.
