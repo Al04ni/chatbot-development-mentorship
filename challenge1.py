@@ -2,6 +2,22 @@
 
 def football_points(wins, draws, losses):
     # Write your solution here
+    #i used end to make it look more clearly
+    print('wins: ',end='')
+    wins=int(input())
+    print('Draws: ',end='')
+    draws=int(input())
+    print('Losses: ',end='')
+    losses=int(input())
+    if wins>=0 and draws>=0 and losses>=0:
+    #logic behind
+      wins=wins*3
+      draws=draws*1
+      losses=losses*0
+      return (wins+draws+losses)
+    else:
+     print('Input must be greater or equal to 0')
+    
     pass
 
 # Test cases
